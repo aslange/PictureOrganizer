@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureOrganizator", "PictureOrganizator.csproj", "{007FDD27-D88A-4D78-B50E-68B1B5248B95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicateFiles", "..\RemoveDuplicateFiles\RemoveDuplicateFiles.csproj", "{243C6A07-69F1-4AB5-BD00-5DA5F379C12C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{007FDD27-D88A-4D78-B50E-68B1B5248B95}.Debug|x86.ActiveCfg = Debug|x86
+		{007FDD27-D88A-4D78-B50E-68B1B5248B95}.Debug|x86.Build.0 = Debug|x86
+		{007FDD27-D88A-4D78-B50E-68B1B5248B95}.Release|x86.ActiveCfg = Release|x86
+		{007FDD27-D88A-4D78-B50E-68B1B5248B95}.Release|x86.Build.0 = Release|x86
+		{243C6A07-69F1-4AB5-BD00-5DA5F379C12C}.Debug|x86.ActiveCfg = Debug|x86
+		{243C6A07-69F1-4AB5-BD00-5DA5F379C12C}.Debug|x86.Build.0 = Debug|x86
+		{243C6A07-69F1-4AB5-BD00-5DA5F379C12C}.Release|x86.ActiveCfg = Release|x86
+		{243C6A07-69F1-4AB5-BD00-5DA5F379C12C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
